@@ -11,7 +11,7 @@ var heartItem3 = document.querySelector(".heartItem.item3")
 var count = 0;
 var percentWidth = 0;
 var heartLeft = -3.2;
-var progressLoad = setInterval(progressInterva,100)
+var progressLoad = setInterval(progressInterva,150)
 
 button.addEventListener("click", function(){
     button.style.transform = "scale(0.8)";

@@ -7,6 +7,11 @@
     box-sizing: border-box;
 }
 body{
+    background: rgb(252, 201, 220); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
     overflow: hidden;
 }
 .wrapper{
